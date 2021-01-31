@@ -1,4 +1,4 @@
-# Protomicro - Simple is best
+# Protomicro - Less is more
 
 ## What's Protomicro
 
