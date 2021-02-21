@@ -9,7 +9,9 @@ To start using `Protomicro`, download the `Makefile` to a blank folder. Then run
 
 ```Shell
 # sample - download default Makefile to microshop foler
-cd ~ & mkdir microshop & cd microshop
+cd ~ 
+mkdir microshop 
+cd microshop
 curl -OL https://github.com/gomaglev/protomicro/Makefile
 ```
 
