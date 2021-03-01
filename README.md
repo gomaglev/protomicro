@@ -7,6 +7,20 @@ microserivces using Go, Grpc-Gateway, Protobuf & DI. Simple and fast.
 
 To start using `Protomicro`, download the `Makefile` to a blank folder. Then run make or protomicro commands. (Suppose Go, make, docker and [protoc](https://gist.github.com/gomaglev/161d1a9e9d4c298556623a5e80221b97) has been [install](https://gist.github.com/gomaglev/161d1a9e9d4c298556623a5e80221b97)ed in your enviroment. You $GOPATH has been set).
 
+# Generated sample
+
+https://github.com/gomaglev/microshop
+
+## Run the sample
+
+```
+make start
+```
+or use docker
+```
+make run
+```
+
 ```Shell
 # sample - download default Makefile to microshop foler
 cd ~ 
