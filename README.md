@@ -22,7 +22,7 @@ make run
 ```
 
 ```Shell
-# sample - download default Makefile to microshop foler
+# sample - download default Makefile to microshop folder
 cd ~ 
 mkdir microshop 
 cd microshop
@@ -30,7 +30,8 @@ curl -OL https://github.com/gomaglev/protomicro/Makefile
 ```
 
 ```Shell
-# make protomicro cli
+# make protomicro cli (WIP, will change to public after v1 release)
+# for contributors, create issues in this repo to get access to cli source code.
 make cli
 
 # code generation
