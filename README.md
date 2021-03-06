@@ -273,6 +273,7 @@ Protocol Buffers are not designed to handle large messages. As a general rule of
 - [x] Protobuf & Faker integration
 - [x] Dockerfiles - Postgres, Mongo, Elasticsearch, RabbitMQ, Redis, Protomicro
 - [x] A sample microservice and test before creating generator (microshop)
+- [ ] Define Casbin/Keycloak/Auth0/Google Auth/Firebase Auth template for Module generator
 - [ ] Module generator - generate API, Model, Controller, Register from proto files
 - [ ] Sample CRUDS modules
 - [ ] Kubenetes deployment
