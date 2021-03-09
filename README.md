@@ -13,7 +13,7 @@ To start using `Protomicro`, download the `Makefile` to a blank folder. Then run
 - [x] Dependency Injection - Wire integration
 - [x] gRPC Server / Gateway
 - [x] GRPC Middlewares (Rate Limit, Authentication Basic, Error, native)
-- [x] Gorm, Mongo, Elasticsearch integration
+- [x] Gorm (MySQL, PostgreSQL, Sqlite), Mongo, Elasticsearch integration
 - [x] Protobuf & Faker integration
 - [x] Dockerfiles - Postgres, Mongo, Elasticsearch, RabbitMQ, Redis, Protomicro
 - [x] A sample microservice and test before creating generator (microshop)
