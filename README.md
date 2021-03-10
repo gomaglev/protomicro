@@ -17,7 +17,7 @@ To start using `Protomicro`, download the `Makefile` to a blank folder. Then run
 - [x] Protobuf & Faker integration
 - [x] Dockerfiles - Postgres, Mongo, Elasticsearch, RabbitMQ, Redis, Protomicro
 - [x] A sample microservice and test before creating generator (microshop)
-- [ ] Define Casbin/Keycloak/Auth0/Google Auth/Firebase Auth template for Module generator
+- [ ] Define Hydra/Casbin/Keycloak/Auth0/Google Auth/Firebase Auth template for Module generator
 - [ ] Module generator - generate API, Model, Controller, Register from proto files
 - [ ] Sample CRUDS modules
 - [ ] Kubenetes deployment
