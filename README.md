@@ -22,7 +22,7 @@ To start using `Protomicro`, download the `Makefile` to a blank folder. Then run
 - [ ] Sample CRUDS modules
 - [ ] Kubenetes deployment
 - [ ] Istio deployment
-- [ ] OpenID OAuth2 Server (Keycloak/Casbin)
+- [ ] OpenID OAuth2 Server (Hydra/Keycloak/Casbin)
 - [ ] Casbin RBAC & Istio Mixer Adapter
 
 # Generated sample
